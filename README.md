@@ -1,5 +1,5 @@
 # harrypotterchess
-This chess game is made not for the ordinary but for the Potterheads! The user experience is designed using Harry Potter elements - Hogwarts theme, Voldemort voice effects, explosive animations and Harry Potter theme song. These element we have put into the chess makes the user feel like they're playing in Hogwarts!
+This chess game is made not for the ordinary but for the Potterheads! The user experience is designed using Harry Potter elements - Hogwarts theme, Voldemort & Harry's spell voice effects, explosive animations and Harry Potter theme song. These element we have put into the chess makes the user feel like they're playing in Hogwarts!
 
 <ol>
   <li>Download ZIP folder</li>
@@ -13,7 +13,7 @@ This game is written completely in Java. No IDE or commands needed. Commands to 
 
 The java classes are as below:
 <ul>
-Main Driver file: MainPage.java </li>
+<li>Main Driver file: MainPage.java </li>
 <li>Animations & Effects Algorithm: PlayGame.java</li>
 <li>Scoring algorithm: Leaderboards.java</li>
 </ul>
