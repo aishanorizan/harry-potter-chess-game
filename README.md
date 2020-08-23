@@ -5,7 +5,7 @@ This chess game is made not for the ordinary but for the Potterheads! The user e
   <li>Download ZIP folder</li>
   <li>From this link: https://drive.google.com/drive/folders/1rPFAlSvTk039KziMKd73npCLY8h-FJdv?usp=sharing , Unzip 'explosiveAnimations' and paste that folder in the main folder. Paste 'Background1.wav' into the main folder too. These are the animation files.</li>
   <li>Inside the main folder, click "startgame.bat" it will compile the program and run the game!</li>
-  <li>No other supporting programs or IDE is required. Make sure you have installed Java Virtual machine!!</li>
+  <li>No other supporting programs or IDE is required. As long as your computer has Java Virtual machine the game will start immediately!!</li>
  </ol>
  
 For Developers:
