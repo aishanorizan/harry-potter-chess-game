@@ -10,11 +10,11 @@ the chess program.
 For Developers:
 
 This game is written completely in Java. The java classes are as below:
-
-Main Driver file: MainPage.java 
-Animations & Effects Algorithm: PlayGame.java
-Scoring algorithm: Leaderboards.java
-
+<ul>
+<li>Main Driver file: MainPage.java </li>
+<li>Animations & Effects Algorithm: PlayGame.java</li>
+<li>Scoring algorithm: Leaderboards.java</li>
+</ul>
 
 
 
