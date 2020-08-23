@@ -1,5 +1,5 @@
 # harrypotterchess
-This chess game is made for the Potterheads! The user experience is designed using Harry Potter elements - Hogwarts theme, Voldemort voice effects, explosive animations and Harry Potter theme song. These element we have put into the chess makes the user feel like they're playing in Hogwarts!
+This chess game is made not for the ordinary but for the Potterheads! The user experience is designed using Harry Potter elements - Hogwarts theme, Voldemort voice effects, explosive animations and Harry Potter theme song. These element we have put into the chess makes the user feel like they're playing in Hogwarts!
 
 Inside the HarryPotter Chess folder, 
 is a batch file named "startgame.bat" .
