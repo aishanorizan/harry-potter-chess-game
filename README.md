@@ -11,7 +11,7 @@ This chess game is made not for the ordinary but for the Potterheads! The user e
 For Developers:
 This game is written completely in Java. No IDE or commands needed. Commands to compile & run the game is in the startgame.bat file. 
 
-The java classes are as below:
+The main java classes are as below:
 <ul>
 <li>Main Driver file: MainPage.java </li>
 <li>Animations & Effects Algorithm: PlayGame.java</li>
